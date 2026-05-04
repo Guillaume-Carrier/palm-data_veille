@@ -10,7 +10,7 @@ from pathlib import Path
 import pandas as pd
 from tavily import TavilyClient
 
-TAVILY_API_KEY = "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"
+TAVILY_API_KEY = "Insérez votre propre clé Tavily"
 DEFAULT_OUTPUT_NAME = "veille_flash"
 THEMES_VEILLE = {
     "Concurrentielle": "concurrents et positionnement dans le secteur de l'archivage de donnees dans la sante",
